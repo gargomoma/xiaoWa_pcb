@@ -20,10 +20,12 @@ The pcb is designed to take as little space as possible, ideal for portable and 
 - Firmware is ProMicro DIY (same as FakeTec) 
 - Recover from brownouts (TLV840)
 - Mosfet to control external hardware (GPS)
+- 2 versions: NRF52 (ProMicro) & ESP32 (S3)
 
 ## PCB Versions
-- 2025-10-08 -> ✅Tested - Working 👍
-- 2025-11-04 -> ⁉️Tested - Working ⁉️
+- ProMicro -- 2025-10-08 -> ✅Tested - Working 👍
+- ProMicro -- 2025-11-04 -> ⁉️Tested - Working ⁉️
+- S3 -- 2025-11-21 -> ⁉️Tested - Working ⁉️
 
 Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for further info.
 
@@ -35,6 +37,7 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 | Part | <div style="width:100px">Source</div>| Cost&nbsp;(€) | Note |
 | :------------ | :------------------------------- | :-----------------| :-----------------|
 | ProMicro (aka NiceNano) | <a href="https://www.aliexpress.com/item/1005006446457448.html" target="_blank">AliExpress</a><br /> <a href="https://www.aliexpress.com/item/1005007738886550.html" target="_blank">AliExpress</a> | 5€ <br /> 2x for 5€ | ⚠️[Review this before buying red ProMicros.](https://github.com/gargomoma/fakeTec_pcb/issues/30)<br> <a href="https://github.com/joric/nrfmicro/wiki/Alternatives#supermini-nrf52840l" target="_blank">⚠️ and also this.</a> |
+| ESP32 S3 SuperMini | <a href="https://es.aliexpress.com/item/1005006960134338.html" target="_blank">AliExpress</a> <br><a href="https://s.click.aliexpress.com/e/_EH2nqLi" target="_blank">🤝AliExpress</a> | 3€ |  |
 | Ebyte E22P | <a href="https://es.aliexpress.com/item/1005009793885799.html" target="_blank">AliExpress</a> <br><a href="https://s.click.aliexpress.com/e/_ExCMka8" target="_blank">🤝AliExpress</a> | 10€ |  |
 | Ebyte E22-XXXM30s | <a href="https://es.aliexpress.com/item/1005009741346732.html" target="_blank">AliExpress</a> <br><a href="https://s.click.aliexpress.com/e/_Ex353NQ" target="_blank">🤝AliExpress</a> | 10€ | M33S might work 🤔 |
 | Ebyte E80 | <a href="https://es.aliexpress.com/item/1005007765300020.html" target="_blank">AliExpress</a> <br><a href="https://s.click.aliexpress.com/e/_EInpttQ" target="_blank">🤝AliExpress</a> | 7€ |  |
