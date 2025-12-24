@@ -56,6 +56,16 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 
 # Notes
 
+### Boost
+>⚠️Don't forget to set it for 5v!! Beware of the magic smoke!⚠️
+
+### E22P TX power
+> According to its [datasheet](https://www.es-ebyte.com/products/E22P-868M30S/4#Downloads) (page 10) the radio module output is:
+> 
+> - E22P-868M30S: 30 dBm with output when set at 10; at 8 it should output 27dBm. (I personally use it with 6).
+> 
+> - E22P-915M30S: 27 dBm with output when set at 10.
+
 ### Bootloader
 >Check if the bootloader version is >0.8, update if needed from [here](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases)
 >
