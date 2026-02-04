@@ -28,7 +28,7 @@ With some adjustments it also fits [TonyG's case](https://www.printables.com/mod
 ## PCB Versions
 - ProMicro -- 2025-10-08 -> ✅Tested - Working 👍
 - ProMicro -- 2025-11-04 -> ✅Tested - Working 👍
-- S3 -- 2025-11-21 -> ⁉️Tested - Working ⁉️
+- S3 -- 2025-11-21 -> ✅Tested - Working ⁉️
 
 Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for further info.
 
@@ -48,7 +48,7 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 | Boost HW-085 | <a href="https://es.aliexpress.com/item/1005007592845254.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_ExA0hQo" target="_blank">🤝AliExpress</a> | 1.73€<br> pack of 5 | I'm using 2x 1M ohms |
 | OLED SSD1306 i2c (optional) | <a href="https://es.aliexpress.com/item/1005007387721823.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGD8jBw" target="_blank">🤝AliExpress</a> | 1.5€ | No need to solder, just be careful and add some tape in between the boards to avoid a short. |
 | SD05CRMA  (optional) | <a href="https://es.aliexpress.com/item/1005008971674620.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EIGHi40" target="_blank">🤝AliExpress</a> | 2.5€<br> pack of 5 | Ideal if you'll insert it into a tube.<br>There's also a LifePo4 version. |
-| TLV840  (optional) | <a href="https://es.aliexpress.com/item/1005009355692739.html" target="_blank">AliExpress</a> | 5€<br> pack of 10 | Ideal if you'll insert it into a tube.<br>There's also a LifePo4 version. |
+| TLV840  (optional) | <a href="https://es.aliexpress.com/item/1005009355692739.html" target="_blank">AliExpress</a> | 5€<br> pack of 10 | It will not let your node boot until battery over a safe threshold. Useful for unnatended nodes. |
 | JST PH2.0 Battery connection (optional) | <a href="https://www.aliexpress.com/item/1005002564191148.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EHICMko" target="_blank">🤝AliExpress</a> | 2€ pack<br /> 0.4€/unit | This is an example. |
 | RG178 Antenna pigtail (recommended) | <a href="https://www.aliexpress.com/item/4001287491018.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EzabLhq" target="_blank">🤝AliExpress</a> | 2€ | I saw that it underperformed with a cheap black pigtail, after using one of these, it worked fine. |
 | Antenna<br>(my favourites)<br> -868 band- | Gizont 20cm<br><a href="https://s.click.aliexpress.com/e/_EvyEjX4" target="_blank">🤝AliExpress</a><br>GrandWisdom<br><a href="https://s.click.aliexpress.com/e/_Eznk06e" target="_blank">🤝AliExpress</a>| 2€ to 6€ | If you buy the Gizont, please just buy 20cms.<br>If buying GrandWisdom, do not bend it. |
@@ -67,7 +67,7 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 > - E22P-868M30S*: set to 8dBm outputs 27dBm; with 12dBm you should get the full watt.
 > - E22P-915M30S*: set to 10dBm outputs 27dBm; with 15dBm you should get the full watt.
 > - E22-900M30S: set to 22dBm outputs 30dBm. (PA is around +7dBm)
-> - E22-900M30S: set to 9dBm outputs 30dBm.
+> - E22-900M33S: set to 9dBm outputs 30dBm.
 >
 > *According E22P [datasheet](https://www.es-ebyte.com/products/E22P-868M30S/4#Downloads) (page 10) and measurements from the community.
 
