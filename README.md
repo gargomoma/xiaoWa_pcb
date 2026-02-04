@@ -48,10 +48,10 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 | Boost HW-085 | <a href="https://es.aliexpress.com/item/1005007592845254.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_ExA0hQo" target="_blank">🤝AliExpress</a> | 1.73€<br> pack of 5 | I'm using 2x 1M ohms |
 | OLED SSD1306 i2c (optional) | <a href="https://es.aliexpress.com/item/1005007387721823.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGD8jBw" target="_blank">🤝AliExpress</a> | 1.5€ | No need to solder, just be careful and add some tape in between the boards to avoid a short. |
 | SD05CRMA  (optional) | <a href="https://es.aliexpress.com/item/1005008971674620.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EIGHi40" target="_blank">🤝AliExpress</a> | 2.5€<br> pack of 5 | Ideal if you'll insert it into a tube.<br>There's also a LifePo4 version. |
-| TLV840  (optional) | <a href="https://es.aliexpress.com/item/1005009355692739.html" target="_blank">AliExpress</a> | 5€<br> pack of 10 | It will not let your node boot until battery over a safe threshold. Useful for unnatended nodes. |
+| TLV840  (optional) | <a href="https://es.aliexpress.com/item/1005009355692739.html" target="_blank">AliExpress</a> | 5€<br> pack of 10 | Useful for unattended nodes. Ensures the device only boots once a safe battery voltage is reached. |
 | JST PH2.0 Battery connection (optional) | <a href="https://www.aliexpress.com/item/1005002564191148.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EHICMko" target="_blank">🤝AliExpress</a> | 2€ pack<br /> 0.4€/unit | This is an example. |
 | RG178 Antenna pigtail (recommended) | <a href="https://www.aliexpress.com/item/4001287491018.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EzabLhq" target="_blank">🤝AliExpress</a> | 2€ | I saw that it underperformed with a cheap black pigtail, after using one of these, it worked fine. |
-| Antenna<br>(my favourites)<br> -868 band- | Gizont 20cm<br><a href="https://s.click.aliexpress.com/e/_EvyEjX4" target="_blank">🤝AliExpress</a><br>GrandWisdom<br><a href="https://s.click.aliexpress.com/e/_Eznk06e" target="_blank">🤝AliExpress</a>| 2€ to 6€ | If you buy the Gizont, please just buy 20cms.<br>If buying GrandWisdom, do not bend it. |
+| Antenna<br>(my favourites)<br> -868 band- | Gizont 20cm<br><a href="https://s.click.aliexpress.com/e/_EvyEjX4" target="_blank">🤝AliExpress</a><br>GrandWisdom<br><a href="https://s.click.aliexpress.com/e/_Eznk06e" target="_blank">🤝AliExpress</a>| 2€ to 6€ | If you buy the Gizont, please just buy 20cms.<br>If buying a GrandWisdom, do not bend it. |
 | PCB |  | 2€ pack of 5<br /> 0.4€/unit | Use your favourite company to get the PCB. |
 | 2x Buttons | <a href="https://es.aliexpress.com/item/1005004380696913.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGIGFYM" target="_blank">🤝AliExpress</a> | 2.7€<br> pack of 50 | I couldn't find a part code, search for "3\*4\*2 2 Pin Button" |
 | Mosfets SI2312 | <a href="https://www.aliexpress.com/item/1005004676217612.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGgKMLO" target="_blank">🤝AliExpress</a> | 9€ pack of 200<br /> | --- |
@@ -110,7 +110,7 @@ Thanks to all the folks using the fakeTec ♥ and specially to those who contrib
 
 (Special shout out to lupusworax & ShimonHoranek )
 
-Also thanks to Karman on the testing and improvement of this design.
+Also thanks to Karman and melkati on the testing and improvement of these designs.
 
 # About Meshtastic
 [Meshtastic](https://meshtastic.org/)® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see github for details.
