@@ -29,6 +29,7 @@ With some adjustments it also fits [TonyG's case](https://www.printables.com/mod
 - ProMicro -- 2025-10-08 -> ✅Tested - Working 👍
 - ProMicro -- 2025-11-04 -> ✅Tested - Working 👍
 - S3 -- 2025-11-21 -> ✅Tested - Working ⁉️
+- e80 -- 2026-04-12 -> ⁉️Tested - Working ⁉️
 
 Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for further info.
 
