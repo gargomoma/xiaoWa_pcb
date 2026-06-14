@@ -56,7 +56,9 @@ Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for furt
 | Antenna<br>(my favourites)<br> -868 band- | Gizont 20cm<br><a href="https://s.click.aliexpress.com/e/_EvyEjX4" target="_blank">🤝AliExpress</a><br>GrandWisdom<br><a href="https://s.click.aliexpress.com/e/_Eznk06e" target="_blank">🤝AliExpress</a>| 2€ to 6€ | If you buy the Gizont, please just buy 20cms.<br>If buying a GrandWisdom, do not bend it. |
 | PCB |  | 2€ pack of 5<br /> 0.4€/unit | Use your favourite company to get the PCB. |
 | 2x Buttons | <a href="https://es.aliexpress.com/item/1005004380696913.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGIGFYM" target="_blank">🤝AliExpress</a> | 2.7€<br> pack of 50 | I couldn't find a part code, search for "3\*4\*2 2 Pin Button" |
-| Mosfets SI2312 | <a href="https://www.aliexpress.com/item/1005004676217612.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGgKMLO" target="_blank">🤝AliExpress</a> | 9€ pack of 200<br /> | --- |
+| Mosfets SI2312 | <a href="https://www.aliexpress.com/item/1005004676217612.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGgKMLO" target="_blank">🤝AliExpress</a> | 9€ pack of 200<br /> | In case you're using the GPS. |
+| 10v 100uf Tantalum Cap | <a href="https://www.aliexpress.com/item/4000558813340.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EQlruxg" target="_blank">🤝AliExpress</a> | 1.5€ pack of 10<br /> | Good to have |
+| 1026 100nf Cap | <a href="https://www.aliexpress.com/item/1005005691620040.html" target="_blank">AliExpress</a><br><a href="https://s.click.aliexpress.com/e/_EGimpX8" target="_blank">🤝AliExpress</a> | 1.5€ pack of 100<br /> | Good to have |
 | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; | &nbsp;&nbsp; |
 | <strong>Total</strong> |&nbsp;&nbsp; | 20€ | &nbsp;&nbsp; |
 
