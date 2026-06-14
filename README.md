@@ -29,7 +29,8 @@ With some adjustments it also fits [TonyG's case](https://www.printables.com/mod
 - ProMicro -- 2025-10-08 -> ✅Tested - Working 👍
 - ProMicro -- 2025-11-04 -> ✅Tested - Working 👍
 - S3 -- 2025-11-21 -> ✅Tested - Working ⁉️
-- e80 -- 2026-04-12 -> ⁉️Tested - Working ⁉️
+- S3 -- 2026-14-13 -> ✅Tested - Working 🛑 (only works with esp32-c3)
+- e80 -- 2026-04-12 -> ✅Tested - Working ✅
 
 Check [here](https://github.com/gargomoma/xiaoWa_pcb/tree/main/gerbers) for further info.
 
